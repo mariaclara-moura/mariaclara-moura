@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Animação](https://github-readme-stats.vercel.app/api?username=mariaclara-moura&show_icons=true&theme=radical)

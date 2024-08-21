@@ -1,4 +1,4 @@
-# Olá, me chamo Maria Clara 🩷
+# Olá! Conheça um pouco sobre minhas habilidades técnicas e ferramentas favoritas 🩷
 
 # 💻 Tech Stack:
 

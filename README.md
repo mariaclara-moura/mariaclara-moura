@@ -18,6 +18,8 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![SwiftData](https://img.shields.io/badge/SwiftData-FFD700?logo=swift&logoColor=black&style=for-the-badge)
+![CloudKit](https://img.shields.io/badge/CloudKit-00BFFF?logo=icloud&logoColor=white&style=for-the-badge)
+
 
 ### Programming Languages
 

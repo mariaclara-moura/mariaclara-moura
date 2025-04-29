@@ -10,6 +10,8 @@
 ![React](https://img.shields.io/badge/-React-64DAFB?style=for-the-badge&logo=react&logoColor=333333)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-FFD700?style=for-the-badge&logo=swift&logoColor=black)
+![UIKit](https://img.shields.io/badge/-UIKit-0A84FF?style=for-the-badge&logo=apple&logoColor=white)
+
 
 
 ### Back-End
@@ -25,6 +27,7 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 

@@ -1,8 +1,7 @@
 # 👋 Olá! Eu sou Maria Clara Moura
 
 👩🏻‍💻 Sou estudante de **Ciência da Computação** (8º período) no Centro de Informática da UFPE.  
-🍎 Atualmente, faço parte da **Apple Developer Academy**, onde me aperfeiçoo em desenvolvimento iOS com Swift, SwiftUI e todas as ferramentas do ecossistema Apple.   
-🛒 Além disso, sou estágiária de desenvolvimento de software da **Amazon** no time de INTech.
+🍎 Atualmente, sou estágiária de desenvolvimento de software da **Amazon** no time de INTech.
 
 # 💻 Tech Stack:
 
